@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/pwaclima/static/css/main.073c9b0a.css",
-    "main.js": "/pwaclima/static/js/main.0191d121.js",
-    "static/js/787.d45580f8.chunk.js": "/pwaclima/static/js/787.d45580f8.chunk.js",
-    "static/media/logo.svg": "/pwaclima/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/pwaclima/index.html",
-    "main.073c9b0a.css.map": "/pwaclima/static/css/main.073c9b0a.css.map",
-    "main.0191d121.js.map": "/pwaclima/static/js/main.0191d121.js.map",
-    "787.d45580f8.chunk.js.map": "/pwaclima/static/js/787.d45580f8.chunk.js.map"
+    "main.css": "/pwa-clima/static/css/main.073c9b0a.css",
+    "main.js": "/pwa-clima/static/js/main.1bea4a6b.js",
+    "static/js/787.d45580f8.chunk.js": "/pwa-clima/static/js/787.d45580f8.chunk.js",
+    "static/media/logo.svg": "/pwa-clima/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/pwa-clima/index.html",
+    "main.073c9b0a.css.map": "/pwa-clima/static/css/main.073c9b0a.css.map",
+    "main.1bea4a6b.js.map": "/pwa-clima/static/js/main.1bea4a6b.js.map",
+    "787.d45580f8.chunk.js.map": "/pwa-clima/static/js/787.d45580f8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.0191d121.js"
+    "static/js/main.1bea4a6b.js"
   ]
 }
